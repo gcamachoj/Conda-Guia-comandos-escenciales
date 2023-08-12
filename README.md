@@ -1,2 +1,2 @@
-# Toturial-Datascience-Comandos_Conda
+# Tutorial-Datascience-Comandos_Conda
 Comandos usuales en conda.
