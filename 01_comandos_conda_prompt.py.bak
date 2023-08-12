@@ -8,6 +8,7 @@ Puede crear un entorno y configurarlo en power bi en las herramientas de opcione
 * Ver el entorno (ambiente actual) actual: 
     conda info --envs
 
+* Cuando ejecutas el comando para ver los entornos instalados, el entorno activo es aquel que contiene un asterisco * 
    
 * Crear nuevo entorno(ambiente) de Conda:
 
@@ -20,5 +21,10 @@ Puede crear un entorno y configurarlo en power bi en las herramientas de opcione
 * Desactivar el entorno:
     conda deactivate <mi_entorno>
 
-
+* Ver las librerías o módulos instalados en un entorno:
+   pip install <nombre modulo>
+   ejemplo: pip install pandas
+   
+   opcion2: conda install <nombre modulo>
+            ejemplo: conda install pandas
 """

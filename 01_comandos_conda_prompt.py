@@ -27,4 +27,14 @@ Puede crear un entorno y configurarlo en power bi en las herramientas de opcione
    
    opcion2: conda install <nombre modulo>
             ejemplo: conda install pandas
+            
+            
+* Actualizar conda y todos los paquetes:
+    conda update conda
+    conda update all
+
+* Eliminar un entorno: Debe estar en el entorno base o fuera del entorno que desea eliminar
+    conda env remove --name <mi-entorno>
+    posteriormente listar los entornos para verificar.
+    
 """
