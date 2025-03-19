@@ -20,7 +20,7 @@ conda --version
 ---
 
 ## 🔹 2. Gestionar Entornos
-
+Primero para activar el prompt de conda debes buscarlo en inicio como  "Anaconda Prompt" para SO Windows.
 ### 📂 2.1 Ver entornos disponibles
 ```bash
 conda info --envs
